@@ -4,7 +4,6 @@ This is a RESTful API built with MySQL and Spring Boot that allows you to manage
 
 ## Features
 - CRUD operations for employees
-- Search and filter employees
 - Secure with JWT authentication
 
 ## Getting Started
